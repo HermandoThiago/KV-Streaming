@@ -160,7 +160,7 @@ export default function Home() {
     <main className="w-full h-full">
       {/* <header className="w-full py-6"></header> */}
 
-      <section className="w-full max-w-full bg-[url('/bg-kv-streaming.jpeg')] bg-cover bg-left h-[400px] md:h-[600px] md:bg-fill md:bg-center"></section>
+      <section className="w-full max-w-full bg-[url('/tabela-kv-streaming.jpg')] md:bg-[url('/bg-kv-streaming.jpeg')] bg-cover bg-left h-[400px] md:h-[600px] md:bg-fill md:bg-center"></section>
 
       {/* <section className="w-full flex items-center justify-between flex-col flex-wrap py-8 bg-neutral-900 gap-10 md:flex-row md:px-40 md:justify-center md:gap-20">
         <div className="text-center">
